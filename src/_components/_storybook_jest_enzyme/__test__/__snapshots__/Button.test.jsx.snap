@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should test Button component 1`] = `
+<button
+  data-testid="button"
+  style={
+    Object {
+      "backgroundColor": "red",
+      "border": "none",
+      "margin": "1rem",
+      "padding": "0.375rem 0.75rem",
+    }
+  }
+>
+  click me..
+</button>
+`;
